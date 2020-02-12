@@ -6,3 +6,13 @@ It would input every valid postcode into the search bar, scrape the output loade
 and then input the results into a .csv spreadsheet.
 
 There would need to be some data cleaning that would have to occur as well, removing useless information and removing duplicates to new a few.
+
+
+Libraries:
+requests
+BeautifulSoup
+Pandas
+Selenium
+
+
+Potentialy limiting number of requests website will allow. Write code to process 10 requests and then wait 5 minutes.
